@@ -1,0 +1,71 @@
+.body{
+    font-family: 'Oswald', sans-serif;
+    margin:auto
+}
+.container{
+    width:1200px;
+    margin: auto;
+    padding-top: 50px;
+}
+.box {
+    width: 45%;
+    margin:auto;
+    border: 2px solid black;
+    padding: 50px 20px;
+    background-color: blanchedalmond;
+}
+.box .box1 {
+    width:45%;
+    margin: auto;
+
+}
+.box1 img {
+    width:100%;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+p {
+    font-family:'Oswald', sans-serif;
+}
+h2{
+    font-weight: 700;
+    text-align: center;
+    color: red;
+    padding-top: 20px;
+}
+.box2 {
+    width: 30%;
+    margin: auto;
+    border:2px solid black;
+    padding: 30px 10px;
+    background-color: blanchedalmond;
+}
+
+.box3 img {
+    width: 100%;
+    
+}
+.box3 {
+    width: 45%;
+    font-family:'Oswald', sans-serif;
+    font-size: larger;
+    background-color: blanchedalmond;
+}
+ul li{
+    list-style-type:square;
+}
+.box5{
+    width: 40%;
+    margin: auto;
+}
+.box5_1{
+    width: 45%;
+    margin: auto;
+    float: left;
+    padding: 5px 3px;
+}
+.box5_1 img{
+    width:100%;
+}
